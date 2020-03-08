@@ -1,2 +1,2 @@
 # menu-pure-css
-Menu hover apenas com css
+Menu hover responsivo apenas com css
